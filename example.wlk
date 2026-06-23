@@ -6,4 +6,4 @@ object pepita {
   method fly(minutes) {
     energy = energy - minutes * 3
   }
-}
+}//prueba push en notebook
